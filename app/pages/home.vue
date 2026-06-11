@@ -47,7 +47,6 @@ const appConfig = useAppConfig()
 
 	<ZField label="关于主页">
 		<p>
-		<p>
 			Fork主页开源在
 			<ZLink to="https://github.com/L33Z22L11/homepage-v5" icon="ri:github-line">L33Z22L11/homepage-v5</ZLink>
 			上，欢迎使用、参考样式：<br>
