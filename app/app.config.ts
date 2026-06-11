@@ -69,7 +69,7 @@ export default defineAppConfig({
 			items: [
 				{ icon: 'ri:id-card-line', text: '简介', url: '/' },
 				{ icon: 'ri:quill-pen-line', text: '文章', url: 'https://wanblog.qzz.io' },
-				{ icon: 'ri:planet-line', text: '站点', url: 'https://wanblog.qzz.io'' },
+				{ icon: 'ri:planet-line', text: '站点', url: 'https://wanblog.qzz.io'},
 			],
 		},
 		{
