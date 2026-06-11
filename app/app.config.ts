@@ -10,7 +10,7 @@ export default defineAppConfig({
 	...homepageConfig,
 
 	footer: [
-		`© ${new Date().getFullYear()} 纸鹿本鹿 (L33Z22L11)`,
+		`© ${new Date().getFullYear()} 晚Official(wan0705)`,
 		h('a', { href: 'https://beian.miit.gov.cn/', target: '_blank', rel: 'noopener nofollow' }, '陕ICP备2025082251号'),
 	],
 
