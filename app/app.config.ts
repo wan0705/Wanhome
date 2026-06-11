@@ -11,7 +11,7 @@ export default defineAppConfig({
 
 	footer: [
 		`© ${new Date().getFullYear()} 晚Official(wan0705)`,
-		h('a', { href: 'https://beian.miit.gov.cn/', target: '_blank', rel: 'noopener nofollow' }, '陕ICP备2025082251号'),
+		h('a', { href: 'https://beian.miit.gov.cn/', target: '_blank', rel: 'noopener nofollow' }),
 	],
 
 	// 用于在主页展示下游引用
