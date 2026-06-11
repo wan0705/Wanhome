@@ -68,18 +68,15 @@ export default defineAppConfig({
 			title: '',
 			items: [
 				{ icon: 'ri:id-card-line', text: '简介', url: '/' },
-				{ icon: 'ri:quill-pen-line', text: '文章', url: '/article' },
-				{ icon: 'ri:code-line', text: '项目', url: '/project' },
-				{ icon: 'ri:planet-line', text: '站点', url: '/site' },
-				{ icon: 'ri:history-line', text: '日志', url: '/log' },
+				{ icon: 'ri:quill-pen-line', text: '文章', url: 'https://wanblog.qzz.io' },
+				{ icon: 'ri:planet-line', text: '站点', url: 'https://wanblog.qzz.io'' },
 			],
 		},
 		{
 			title: '社交',
 			items: [
-				{ icon: 'ri:qq-line', text: '群: 169994096', url: 'https://jq.qq.com/?_wv=1027&k=lQfNSeEd' },
-				{ icon: 'ri:mail-line', text: 'hi@zhilu.cyou', url: 'mailto:hi@zhilu.cyou' },
-				{ icon: 'ri:github-line', text: 'Github', url: 'https://github.com/L33Z22L11' },
+				{ icon: 'ri:mail-line', text: 'wan0705007@qq.com', url: 'mailto:wan0705007@qq.com' },
+				{ icon: 'ri:github-line', text: 'Github', url: 'https://github.com/wan0705' },
 			],
 		},
 	] satisfies Nav,
