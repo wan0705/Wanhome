@@ -47,13 +47,8 @@ const appConfig = useAppConfig()
 
 	<ZField label="关于主页">
 		<p>
-			感谢
-			<ZBadge link="https://github.com/KazariEX" text="KazariEX" />
-			<ZBadge link="https://github.com/isYangs" text="isYangs" />
-			等众多朋友为个人主页提供帮助。
-		</p>
 		<p>
-			主页开源在
+			Fork主页开源在
 			<ZLink to="https://github.com/L33Z22L11/homepage-v5" icon="ri:github-line">L33Z22L11/homepage-v5</ZLink>
 			上，欢迎使用、参考样式：<br>
 		</p>
